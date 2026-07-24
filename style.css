@@ -1,1 +1,4 @@
-body {background-color:aqua;}
+body {
+  background-image: url(".image/ten18.png");
+  background-size: cover;
+}
